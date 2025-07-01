@@ -1,4 +1,3 @@
-````markdown
 # Bike Buyers Analysis
 
 This repository contains an Excel workbook with a raw dataset and an interactive dashboard that explores which factors influence a customer’s decision to purchase a bike.
