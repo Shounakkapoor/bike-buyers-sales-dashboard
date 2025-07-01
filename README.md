@@ -13,12 +13,10 @@ This repository contains an Excel workbook with a raw dataset and an interactive
     - **Average Income Per Purchase** by Gender & Purchase Decision  
     - **Count of Purchased Bike** by Commute Distance  
     - **Count of Purchased Bike** by Age Bracket  
-  - **`Sheet3`** – **Bikes Sales Dashboard** combining the three pivot charts and slicers for:  
+  - **`Dashboard`** – **Bikes Sales Dashboard** combining the three pivot charts and slicers for:  
     - Marital Status (Married, Single)  
     - Region (Europe, North America, Pacific)  
-    - Education (High School, Partial College, etc.)  
-    - Age Bracket  
-    - Commute Distance  
+    - Education (High School, Partial College, etc.)   
 
 ---
 
@@ -74,8 +72,7 @@ This repository contains an Excel workbook with a raw dataset and an interactive
 
 ---
 
-Feel free to copy-paste this into your `README.md`. Let me know if you’d like any tweaks or additional details! ```
-````
+Feel free to copy-paste this into your `README.md`. Let me know if you’d like any tweaks or additional details! 
 
 ## Author
 **Shounak Kapoor**
